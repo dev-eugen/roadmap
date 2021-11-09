@@ -11,8 +11,7 @@
 - [npm](https://www.youtube.com/watch?v=sL6VvWOAuLE)
 - [webpack](https://www.youtube.com/watch?v=uNsEOsc1NmE)
 ## Style
-- глобальная регистрация плагинов и библиотек и компонентов
-- [Post Css, Tailwind](https://www.youtube.com/watch?v=MDHUKHWYDpM&list=PL-FhWbGlJPfbF0sFMBNwVlzQNGCsASYQw&index=1)
+- глобальная регистрация плагинов и библиотек и компонентов 
 - [Post Css, Tailwind](https://www.youtube.com/watch?v=MDHUKHWYDpM&list=PL-FhWbGlJPfbF0sFMBNwVlzQNGCsASYQw&index=1)
 - [Sass](https://sass-scss.ru/guide/)
 # [Vue](https://www.youtube.com/watch?v=XzLuMtDelGk&list=PL6DxKON1uLOFkn6AgMTYM36aeoODs4-ny)
