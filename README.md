@@ -24,4 +24,6 @@
 - [Урок не по composition](https://www.youtube.com/watch?v=XzLuMtDelGk&list=PL6DxKON1uLOFkn6AgMTYM36aeoODs4-ny) 
 - [emits](https://www.youtube.com/watch?v=mqsXRxWvR3o) 
 
-
+# Practise 
+[todoapp](https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/apps/todo)
+[email](https://pixinvent.com/demo/vuexy-vuejs-admin-dashboard-template/demo-1/apps/email)
